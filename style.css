@@ -1,10 +1,10 @@
 img {
-    width: 200px;
+    width: 500px;
 }
 
 body {
     text-align: center;
     font-family:'Times New Roman', Times, serif;
     background: aliceblue;
-    color: yellow;
+    color: turquoise;
 }
